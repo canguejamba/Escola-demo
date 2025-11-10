@@ -1,0 +1,7 @@
+<svg width="1200" height="900" viewBox="0 0 1200 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="900" fill="#14532D" />
+  <circle cx="180" cy="260" r="140" fill="#22C55E" opacity="0.6" />
+  <circle cx="420" cy="680" r="180" fill="#BBF7D0" opacity="0.45" />
+  <path d="M520 340C520 250 620 190 720 240C820 290 920 270 940 360C960 450 900 580 780 620C660 660 520 670 520 560V340Z" fill="#22C55E" opacity="0.55" />
+  <text x="120" y="500" fill="#ECFDF5" font-size="72" font-family="'Manrope', sans-serif">Nuovi orizzonti nascono qui</text>
+</svg>
